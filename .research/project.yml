@@ -1,0 +1,37 @@
+schema_version: "1.0"
+project:
+  id: ai-governance-non-proliferation
+  title: "Artificial Intelligence Governance and Non-Proliferation"
+  short_title: "AI Governance and Non-Proliferation"
+  repository: "LystadJS/project-ai-governance-non-proliferation"
+  type: applied-research
+  status: active
+  featured: true
+  summary: "Public reproducibility layer for applied analysis of AI governance, non-proliferation, institutional process terrain, and multilateral policy using releasable statistical and visualization workflows."
+methods:
+  - id: dimension-reduction
+    role: primary
+    techniques: [multidimensional-scaling]
+    usage: "Uses principal coordinates analysis on a structured process-evidence distance matrix to represent similarity among multilateral venues and processes."
+  - id: statistical-computing
+    role: secondary
+    techniques: [data-visualization, reproducible-computing]
+    usage: "Uses deterministic R workflows to reproduce process-terrain coordinates, diagnostics, and a publication-style strategic-terrain visualization."
+domains: [emerging-technology, human-security]
+contexts: [united-nations, multilateral-policy, applied-analysis]
+geography:
+  scope: multilateral
+  countries: []
+  map_countries: [CN, US, AT, BE, BG, HR, CY, CZ, DK, EE, FI, FR, DE, GR, HU, IE, IT, LV, LT, LU, MT, NL, PL, PT, RO, SK, SI, ES, SE, JP, KR, BR, IN, IL, SA, AE]
+  note: "Mapped countries represent explicit portfolio-facing emerging-technology coverage; the public reproducibility layer itself is multilateral rather than a set of national studies."
+software: [R]
+keywords: [ai-governance, non-proliferation, multilateral-governance, pcoa, reproducible-research]
+outputs:
+  - type: portfolio
+    label: "Research portfolio entry"
+    url: "https://lystadjs.github.io/research.html#project-ai-nonproliferation"
+access:
+  repository_visibility: public
+  data_access: none
+  code_access: full
+  disclosure: "This repository is a sanitized public reproducibility layer. It excludes private source archives, evidence packets, working panels, internal notes, and decision-support materials retained in the private working repository."
