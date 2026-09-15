@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this public reproducibility repository, cite the specific repository version or commit used."
+title: "Artificial Intelligence Governance and Non-Proliferation"
+type: software
+authors:
+  - family-names: "Lystad"
+    given-names: "John S."
+repository-code: "https://github.com/LystadJS/project-ai-governance-non-proliferation"
+url: "https://github.com/LystadJS/project-ai-governance-non-proliferation"
+abstract: >-
+  Public reproducibility materials for statistical analysis of AI-governance
+  institutional terrain across the United Nations and wider multilateral
+  ecosystem, including a structured mixed-data Gower distance and principal
+  coordinates analysis workflow plus a publication-style visualization.
+keywords:
+  - artificial intelligence governance
+  - non-proliferation
+  - principal coordinates analysis
+  - multidimensional scaling
+  - multilateral governance
+  - reproducible research
