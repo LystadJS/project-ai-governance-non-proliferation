@@ -1,0 +1,15 @@
+# Local/private inputs
+data/actor_venue_involvement.csv
+
+# Generated analytical outputs
+pcoa_outputs/
+figures/*.png
+figures/*.pdf
+figures/*.svg
+
+# R/editor state
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
