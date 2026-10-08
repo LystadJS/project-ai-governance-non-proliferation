@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/readme-banner.svg" width="100%" alt="USUN-themed banner for AI Governance and Non-Proliferation, featuring the existing USUN seal" />
+</p>
+
 # Artificial Intelligence Governance and Non-Proliferation
 
 This public repository is the sanitized reproducibility layer for applied work on AI governance, non-proliferation, and institutional process terrain. It is intentionally narrower than the private working repository: only releasable analytical code, embedded reproducibility inputs, and public-facing documentation are included here.
@@ -82,5 +86,7 @@ The visualization also contains descriptive institutional groupings and contextu
 ## Disclosure
 
 This is a sanitized public reproducibility repository. Public visibility does not imply that the underlying private working repository, source archive, or every evidence item has been released.
+
+The banner follows the visual style used across this portfolio's UN-related projects and reuses the existing USUN seal. This independent research is not an official product or endorsement of the U.S. Mission to the United Nations, the Department of State, or the United Nations.
 
 See [data/README.md](data/README.md) and [RIGHTS.md](RIGHTS.md) before redistributing materials.
